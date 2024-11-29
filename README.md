@@ -6,7 +6,7 @@
 ### <div align="center">Hi there 👋 I'm Isis</div>  
   
 
-###### <div align="center">A brazilian 19yo growing as a developer and still learning what my interests are! 😊</div>  
+###### <div align="center">A brazilian 20yo growing as a developer and still learning what my interests are! 😊</div>  
   
 
 - 📚 Majoring in Information Systems  
