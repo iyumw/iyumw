@@ -17,8 +17,8 @@ A brazilian 20yo developer with a passion for learning and creating! 😊
 </p>
 
 <div style="display: flex; justify-content: space-around;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyumw&theme=omni&show_icons=true&hide_border=true&layout=compact" alt="Yume's Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=iyumw&theme=omni&show_icons=true&hide_border=true&count_private=true" alt="Yume's Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyumw&theme=omni&show_icons=true&hide_border=true&layout=compact" alt="Yume's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyumw&theme=omni&show_icons=true&hide_border=true&count_private=true" alt="Yume's Stats" />
 </div>
 
 ## What I'm Working On
