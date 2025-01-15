@@ -1,6 +1,6 @@
-<div style="float: right;">
-  <img src="https://media.giphy.com/media/2DAqMBL017eKufUa7n/giphy.gif" alt="Nintendo Switch" height="auto" width="25%" align="right">
-</div>
+<div align="right">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtpbzRqcjRrZnI3bmliMDV6bnEzeHZzZ3BqM2R2dmxtdm9raXN3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Izi8PFLuQOdz9X2jDs/giphy.webp" align="right" height="96" width="71" />
+</div>  
 
 <div align="center"><h3>Hi there 👋 I'm Isis</h3></div>
 
