@@ -12,7 +12,7 @@
 <h2>✨ My Skill Set</h2> 
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,git,flask,java,mysql,nodejs,py,spring">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nestjs,nodejs,java,spring,py,mysql,git">
   </a>
 </p>
 
