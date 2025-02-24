@@ -5,8 +5,8 @@
 <div align="center"><h3>Hi there 👋 I'm Isis</h3></div>
 
 <div align="center">  
-<p>A brazilian 20yo developer with a passion for learning and creating! 😊</p>
-<p>I'm currently majoring in Information Systems and focusing on back-end development with Typescript.</p>
+<p>A brazilian 20yo Fullstack Developer with a passion for learning and creating! 😊</p>
+<p>I'm currently majoring in Information Systems and focusing on back-end development with Typescript and Node.js.</p>
 </div>
 
 <h2>✨ My Skill Set</h2> 
