@@ -10,12 +10,19 @@
 </div>
 
 <h2>✨ My Skill Set</h2> 
-<p align="center">
-  <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nestjs,nodejs,java,spring,py,mysql,git">
-  </a>
-</p>
+<h3>📌 Frontend</h3>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,tailwind,figma"> </a>
 
+<h3>⚙️ Backend</h3>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nestjs,nodejs,java,spring,py"> </a>
+
+<h3>🗄️ Database & Package Managers</h3>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,yarn,npm"> </a>
+
+<h3>🔧 Tools & Version Control</h3>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git"> </a>
+
+<h2>📊 GitHub Stats</h2>
 <div style="display: flex; justify-content: space-around;" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyumw&theme=omni&show_icons=true&hide_border=true&layout=compact" alt="Yume's Top Languages" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyumw&theme=omni&show_icons=true&hide_border=true&count_private=true" alt="Yume's Stats" />
@@ -23,13 +30,18 @@
 
 <h2>What I'm Working On</h2>
 <p>🌱 I'm currently diving deeper into JavaScript and Typescript functionalities and exploring potential projects to apply my knowledge.</p>
+🔧 Portfolio under construction! Stay tuned. 🚀  
 
 <h2>Connect with me </h2> 
 <div align="center">
-<a href="https://github.com/iyumw" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/isis-okamoto" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://iyumw.github.io/portfolio_gen/" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white" alt="portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/isis-okamoto" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>  
+  <a href="mailto:isis.yume2508@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+
 </div>  
