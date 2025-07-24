@@ -1,8 +1,5 @@
 name: Generate Pacman Contribution Graph
 
-permissions:
-  contents: write
-  
 on:
   schedule:
     - cron: '0 */12 * * *'
@@ -10,15 +7,17 @@ on:
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    name: Generate Pacman Contribution Graph
 
     steps:
       - uses: actions/checkout@v3
 
-      - uses: abozanona/pacman-contribution-graph@main
+      - uses: J-P-Saari/pacman-contribution-graph@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: iyumw
 
       - name: Commit & Push
         run: |
