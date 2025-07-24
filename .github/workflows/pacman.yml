@@ -1,10 +1,11 @@
 name: Generate Pacman Contribution Graph
 
+permissions:
+  contents: write
+  
 on:
-  # Executa a cada 12 horas
   schedule:
     - cron: '0 */12 * * *'
-  # Permite que você execute este workflow manualmente na aba "Actions"
   workflow_dispatch:
 
 jobs:
@@ -13,16 +14,12 @@ jobs:
     name: Generate Pacman Contribution Graph
 
     steps:
-      
       - uses: actions/checkout@v3
-
 
       - uses: abozanona/pacman-contribution-graph@v1.0.0
         with:
-          # O GITHUB_TOKEN é necessário para que a Action possa ler suas contribuições
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Faz o commit e envia o arquivo gerado (pacman.svg) para o seu repositório
       - name: Commit & Push
         run: |
           git config --global user.name "github-actions[bot]"
