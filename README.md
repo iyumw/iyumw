@@ -27,11 +27,7 @@ I'm currently majoring in Information Systems and focusing on back-end developme
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyumw&theme=omni&show_icons=true&hide_border=true&count_private=true" alt="Yume's Stats" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iyumw/iyumw/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iyumw/iyumw/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iyumw/iyumw/output/pacman-contribution-graph.svg">
-</picture>
+![Pacman Contribution Graph](./pacman.svg)
 
 ## What I'm Working On
 🌱 I'm currently diving deeper into JavaScript and Typescript functionalities and exploring potential projects to apply my knowledge.
