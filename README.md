@@ -30,6 +30,11 @@ I'm currently majoring in Information Systems and focusing on back-end developme
 ![snake](./dist/github-contribution-grid-snake.svg)
 
 ![Pacman Contribution Graph](./pacman.svg)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iyumw/iyumw/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iyumw/iyumw/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iyumw/iyumw/output/pacman-contribution-graph.svg">
+</picture>
 
 ## What I'm Working On
 🌱 I'm currently diving deeper into JavaScript and Typescript functionalities and exploring potential projects to apply my knowledge.
