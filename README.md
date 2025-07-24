@@ -27,9 +27,8 @@ I'm currently majoring in Information Systems and focusing on back-end developme
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyumw&theme=omni&show_icons=true&hide_border=true&count_private=true" alt="Yume's Stats" />
 </div>
 
-![snake](./dist/github-contribution-grid-snake.svg)
+<!-- ![snake](./dist/github-contribution-grid-snake.svg) -->
 
-![Pacman Contribution Graph](./pacman.svg)
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iyumw/iyumw/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iyumw/iyumw/output/pacman-contribution-graph.svg">
