@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: abozanona/pacman-contribution-graph@v1.0.0
+      - uses: abozanona/pacman-contribution-graph@main
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
