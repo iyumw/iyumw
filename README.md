@@ -28,7 +28,7 @@ I'm currently majoring in Information Systems and focusing on back-end developme
 </div>
 
 <!-- ![snake](./dist/github-contribution-grid-snake.svg) -->
-
+###  💻 My Contribution Graph
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iyumw/iyumw/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iyumw/iyumw/output/pacman-contribution-graph.svg">
@@ -40,7 +40,7 @@ I'm currently majoring in Information Systems and focusing on back-end developme
 
 🔧 Portfolio under construction! Stay tuned. 🚀  
 
-## Connect with me
+## 🔗 Connect with me
 <div align="center">
 <!--   <a href="https://iyumw.github.io/portfolio_gen/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white" alt="portfolio" />
